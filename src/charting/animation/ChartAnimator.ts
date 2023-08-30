@@ -1,4 +1,4 @@
-import { Tween, EasingFunction } from './Tween';
+import { Tween, EasingFunction } from '@nativescript-community/tween'
 export { EasingFunction }
 
 function clamp(value) {
