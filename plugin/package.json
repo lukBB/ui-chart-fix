@@ -37,6 +37,7 @@
         "@nativescript-community/ui-canvas": "^4.5.1",
         "additween": "^3.0.0",
         "downsample": "^1.4.0",
-        "number-format.js": "^2.0.9"
+        "number-format.js": "^2.0.9",
+         "@nativescript-community/tween": "^0.0.14"
     }
 }
